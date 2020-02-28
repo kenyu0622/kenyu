@@ -129,7 +129,7 @@
 }
 
 .top__bg {
-  background-image: url(img/sea.jpg);
+  background-image: url(sea.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
